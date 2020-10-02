@@ -5,4 +5,4 @@ The aim here is to teach yourself C# and Unity to build custom reinforcement lea
 * https://www.youtube.com/watch?v=aGU2la0fHds&t=434s
 * https://www.youtube.com/watch?v=S-MbpQiwfls
 
-Still trying to figure out the best way to work wiht Unity and github - at least for now it is kinda cumbersome.
+Still trying to figure out the best way to work wiht Unity and github - at least for now it is kinda cumbersome. Moving between Linux and Mac, too.
